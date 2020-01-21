@@ -1,0 +1,16 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/AzureSphere_HighLevelApp/.vs
+/AzureSphere_HighLevelApp/out/ARM-Debug-3+Beta1909/.cmake/api/v1
+/AzureSphere_HighLevelApp/out/ARM-Debug-3+Beta1909/approotWifiSetupAndDeviceControlViaBle/bin
+/AzureSphere_HighLevelApp/out/ARM-Debug-3+Beta1909/CMakeFiles/3.15.19101501-MSVC_2
+/AzureSphere_HighLevelApp/out/ARM-Debug-3+Beta1909/CMakeFiles/WifiSetupAndDeviceControlViaBle.dir
+/AzureSphere_HighLevelApp/out/ARM-Debug-3+Beta1909/CMakeFiles
+/AzureSphere_HighLevelApp/out/ARM-Debug-3+Beta1909/Testing/Temporary
+/AzureSphere_HighLevelApp/out/ARM-Debug-3+Beta1909/approotWifiSetupAndDeviceControlViaBle
+/AzureSphere_HighLevelApp/out/ARM-Debug-3+Beta1909
+/WindowsApp/.vs/WifiSetupAndDeviceControlViaBle/v16
+/WindowsApp
